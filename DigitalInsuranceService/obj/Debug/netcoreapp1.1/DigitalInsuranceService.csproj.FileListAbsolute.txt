@@ -1,0 +1,9 @@
+c:\users\monojit\documents\visual studio 2017\Projects\DigitalInsuranceService\DigitalInsuranceService\bin\Debug\netcoreapp1.1\DigitalInsuranceService.deps.json
+c:\users\monojit\documents\visual studio 2017\Projects\DigitalInsuranceService\DigitalInsuranceService\bin\Debug\netcoreapp1.1\DigitalInsuranceService.runtimeconfig.json
+c:\users\monojit\documents\visual studio 2017\Projects\DigitalInsuranceService\DigitalInsuranceService\bin\Debug\netcoreapp1.1\DigitalInsuranceService.runtimeconfig.dev.json
+c:\users\monojit\documents\visual studio 2017\Projects\DigitalInsuranceService\DigitalInsuranceService\bin\Debug\netcoreapp1.1\DigitalInsuranceService.dll
+c:\users\monojit\documents\visual studio 2017\Projects\DigitalInsuranceService\DigitalInsuranceService\bin\Debug\netcoreapp1.1\DigitalInsuranceService.pdb
+c:\users\monojit\documents\visual studio 2017\Projects\DigitalInsuranceService\DigitalInsuranceService\obj\Debug\netcoreapp1.1\DigitalInsuranceService.csprojResolveAssemblyReference.cache
+c:\users\monojit\documents\visual studio 2017\Projects\DigitalInsuranceService\DigitalInsuranceService\obj\Debug\netcoreapp1.1\DigitalInsuranceService.AssemblyInfo.cs
+c:\users\monojit\documents\visual studio 2017\Projects\DigitalInsuranceService\DigitalInsuranceService\obj\Debug\netcoreapp1.1\DigitalInsuranceService.dll
+c:\users\monojit\documents\visual studio 2017\Projects\DigitalInsuranceService\DigitalInsuranceService\obj\Debug\netcoreapp1.1\DigitalInsuranceService.pdb
